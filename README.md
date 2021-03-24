@@ -1,0 +1,1 @@
+An app to select a place by using the phone's camera, viewing the details, selecting and displaying the location with the phone's maps.
